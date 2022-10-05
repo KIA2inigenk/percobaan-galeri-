@@ -1,4 +1,4 @@
-module github.com/bep/gallerydeluxe_starter
+module https://github.com/KIA2inigenk/percobaan-galeri-
 
 go 1.19
 
